@@ -35,7 +35,7 @@ namespace playground
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(178, 268);
+            this.button1.Location = new System.Drawing.Point(484, 297);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(154, 77);
             this.button1.TabIndex = 0;
@@ -45,11 +45,11 @@ namespace playground
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(213, 205);
+            this.button2.Location = new System.Drawing.Point(29, 297);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(316, 70);
+            this.button2.Size = new System.Drawing.Size(405, 70);
             this.button2.TabIndex = 1;
-            this.button2.Text = "button2";
+            this.button2.Text = "log in";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // Form1
@@ -60,7 +60,7 @@ namespace playground
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "log in";
             this.ResumeLayout(false);
 
         }
