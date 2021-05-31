@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\new project\Playground-Reservation\playground\bin\Debug\playground.exe.config
+C:\Users\pc\Desktop\new project\Playground-Reservation\playground\bin\Debug\playground.exe
+C:\Users\pc\Desktop\new project\Playground-Reservation\playground\bin\Debug\playground.pdb
+C:\Users\pc\Desktop\new project\Playground-Reservation\playground\obj\Debug\playground.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\new project\Playground-Reservation\playground\obj\Debug\playground.formlogin.resources
+C:\Users\pc\Desktop\new project\Playground-Reservation\playground\obj\Debug\playground.Properties.Resources.resources
+C:\Users\pc\Desktop\new project\Playground-Reservation\playground\obj\Debug\playground.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\new project\Playground-Reservation\playground\obj\Debug\playground.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\new project\Playground-Reservation\playground\obj\Debug\playground.exe
+C:\Users\pc\Desktop\new project\Playground-Reservation\playground\obj\Debug\playground.pdb
