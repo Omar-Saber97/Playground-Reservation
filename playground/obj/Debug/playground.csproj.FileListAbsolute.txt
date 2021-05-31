@@ -10,3 +10,5 @@ D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\obj\Debug\playgro
 D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\obj\Debug\playground.csproj.CoreCompileInputs.cache
 D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\obj\Debug\playground.exe
 D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\obj\Debug\playground.pdb
+D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\bin\Debug\playground.mdf
+D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\bin\Debug\playground_log.ldf
