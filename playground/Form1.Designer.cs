@@ -45,7 +45,7 @@ namespace playground
             this.Exit.Location = new System.Drawing.Point(247, 143);
             this.Exit.Name = "Exit";
             this.Exit.Size = new System.Drawing.Size(123, 68);
-            this.Exit.TabIndex = 0;
+            this.Exit.TabIndex = 3;
             this.Exit.Text = "Exit";
             this.Exit.UseVisualStyleBackColor = false;
             this.Exit.Click += new System.EventHandler(this.button1_Click);
@@ -57,7 +57,7 @@ namespace playground
             this.login.Location = new System.Drawing.Point(12, 143);
             this.login.Name = "login";
             this.login.Size = new System.Drawing.Size(229, 68);
-            this.login.TabIndex = 1;
+            this.login.TabIndex = 2;
             this.login.Text = "log in";
             this.login.UseVisualStyleBackColor = false;
             this.login.Click += new System.EventHandler(this.login_Click);
@@ -69,9 +69,10 @@ namespace playground
             this.signup.Location = new System.Drawing.Point(287, 12);
             this.signup.Name = "signup";
             this.signup.Size = new System.Drawing.Size(83, 25);
-            this.signup.TabIndex = 2;
+            this.signup.TabIndex = 4;
             this.signup.Text = "sign up";
             this.signup.UseVisualStyleBackColor = false;
+            this.signup.Click += new System.EventHandler(this.signup_Click);
             // 
             // UserName
             // 
@@ -96,14 +97,14 @@ namespace playground
             this.textBox1.Location = new System.Drawing.Point(96, 61);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(174, 20);
-            this.textBox1.TabIndex = 5;
+            this.textBox1.TabIndex = 0;
             // 
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(96, 105);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(174, 20);
-            this.textBox2.TabIndex = 6;
+            this.textBox2.TabIndex = 1;
             this.textBox2.UseSystemPasswordChar = true;
             // 
             // formlogin
@@ -119,6 +120,7 @@ namespace playground
             this.Controls.Add(this.login);
             this.Controls.Add(this.Exit);
             this.Name = "formlogin";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "log in";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);

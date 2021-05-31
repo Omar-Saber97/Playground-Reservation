@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -32,14 +33,23 @@ namespace playground
             string name, password;
             name = textBox1.Text;
             password = textBox2.Text;
-            if (name == "abc" && password == "123")
+            if (name == "project" && password == "project")
             {
-                MessageBox.Show("تم تسجيل الدخول بنجاح");
+                Mainform come = new Mainform();
+                come.Show();
             }
             else
             {
-                MessageBox.Show(" حاول مرة اخرى");
+                MessageBox.Show(" Try again");
             }
+        }
+
+        private void signup_Click(object sender, EventArgs e)
+        {
+            signup go = new signup();
+            go.Show();
+
+
         }
     }
 }

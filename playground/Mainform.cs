@@ -16,5 +16,10 @@ namespace playground
         {
             InitializeComponent();
         }
+
+        internal static void show()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
