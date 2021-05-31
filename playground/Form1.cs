@@ -35,8 +35,10 @@ namespace playground
             password = textBox2.Text;
             if (name == "project" && password == "project")
             {
+                
                 Mainform come = new Mainform();
                 come.Show();
+               
             }
             else
             {

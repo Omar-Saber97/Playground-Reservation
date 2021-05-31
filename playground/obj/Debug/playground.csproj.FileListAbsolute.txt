@@ -29,3 +29,15 @@ C:\Users\pc\Desktop\project\Playground-Reservation\playground\obj\Debug\playgrou
 C:\Users\pc\Desktop\project\Playground-Reservation\playground\obj\Debug\playground.exe
 C:\Users\pc\Desktop\project\Playground-Reservation\playground\obj\Debug\playground.pdb
 C:\Users\pc\Desktop\project\Playground-Reservation\playground\obj\Debug\playground.signup.resources
+D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\bin\Debug\playground.exe.config
+D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\bin\Debug\playground.exe
+D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\bin\Debug\playground.pdb
+D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\obj\Debug\playground.csproj.AssemblyReference.cache
+D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\obj\Debug\playground.formlogin.resources
+D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\obj\Debug\playground.Mainform.resources
+D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\obj\Debug\playground.Properties.Resources.resources
+D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\obj\Debug\playground.signup.resources
+D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\obj\Debug\playground.csproj.GenerateResource.cache
+D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\obj\Debug\playground.csproj.CoreCompileInputs.cache
+D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\obj\Debug\playground.exe
+D:\acu\2nd term\EDRP\project\Playground-Reservation\playground\obj\Debug\playground.pdb
